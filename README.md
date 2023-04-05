@@ -1,18 +1,18 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10765364&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Montagem de Computadores
+O objetivo geral deste trabalho é ajudar aqueles que gostariam de adquirir um computador mais potente, para que possam rodar jogos e programas mais exigentes. Assim, será criado um WebApp para que ajude o usuário a montar um computador do zero, auxiliando qual peça escolher, ou ajudará em melhorar o computador atual do cliente.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Samuel Horta de Faria
+* Luís Augusto Lima de Oliveira
+* Felipe Pererira da Silva
+* Kauan Gabriel Silva Pereira Hauger
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* João Carlos Oliveira Caetano
+* Simone de Assis Alves da Silva
 
 ## Instruções de utilização
 
