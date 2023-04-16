@@ -13,6 +13,8 @@ O objetivo geral deste trabalho é ajudar aqueles que gostariam de adquirir um c
 
 * João Carlos Oliveira Caetano
 * Simone de Assis Alves da Silva
+* Rommel Vieira Carneiro
+* Carlos Augusto Paiva da Silva Martins
 
 ## Instruções de utilização
 
