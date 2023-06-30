@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Compatibilidade de Peças de Computador</title>
+    <script src="Sprint_2_compatibilidade_Felipe.js"></script>
+    <link rel="stylesheet" href="Sprint_2_compatibilidade_Felipe.css" />
+  </head>
+
+  <body>
+    <header class="header">
+      <a href="index.html" class="marca">PC MASTER</a>
+
+      <nav>
+        <ul class="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="Sprint_3_finalidade_Felipe.html">Finalidade para o Setup</a></li>
+          <li><a href="Sprint_3_Precos_Pecas_Luis.html">Parceiros</a></li>
+          <li><a href="Sprint_2_cadastro_Luis.html">Cadastrar Peças</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="container">
+      <h1>Compatibilidade de Peças de Computador</h1>
+      <!------------------------------------------------------------------------------------------>
+      <div class="form-group">
+        <label for="peca1">Peça 1:</label>
+        <select id="peca1">
+          <option value="processador">Processador</option>
+          <option value="placa-mae">Placa-mãe</option>
+          <option value="memoria-ram">Memória RAM</option>
+          <option value="placa-de-video">Placa de Vídeo</option>
+          <option value="HD">HD</option>
+          <option value="SSD">SSD</option>
+          <option value="fonte">Fonte</option>
+        </select>
+      </div>
+      <!------------------------------------------------------------------------------------------>
+      <div class="form-group">
+        <label for="peca2">Peça 2:</label>
+        <select id="peca2">
+          <option value="processador">Processador</option>
+          <option value="placa-mae">Placa-mãe</option>
+          <option value="memoria-ram">Memória RAM</option>
+          <option value="placa-de-video">Placa de Vídeo</option>
+          <option value="HD">HD</option>
+          <option value="SSD">SSD</option>
+          <option value="fonte">Fonte</option>
+        </select>
+      </div>
+      <!---------------------------------------------------------------------------------------->
+
+      <button class="btn" onclick="verificarCompatibilidade()">
+        Verificar Compatibilidade
+      </button>
+      <div class="result" id="compatibilidade"></div>
+    </div>
+
+
+    <footer class="footer">
+      Copyright 2023 - Todos os direitos reservados.
+    </footer>
+  </body>
+</html>
