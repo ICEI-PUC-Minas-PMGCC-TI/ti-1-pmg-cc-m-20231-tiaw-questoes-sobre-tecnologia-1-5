@@ -1,4 +1,5 @@
-Sprint_3_cadastro_Samuel/*------------------DECLARAÇÃO DAS VARIAVEIS PARA CADASTRO------------------------------*/
+/*Sprint_3_cadastro_Samuel*/
+/*------------------DECLARAÇÃO DAS VARIAVEIS PARA CADASTRO------------------------------*/
 
 let username = document.querySelector('#nome')
 let labelNome = document.querySelector('#labelNome')
