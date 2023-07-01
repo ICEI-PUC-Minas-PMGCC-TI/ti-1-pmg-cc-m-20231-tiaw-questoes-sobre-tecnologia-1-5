@@ -19,6 +19,7 @@
                     "Preco": 2599.99,
                     "Promocao": 0,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/241911/placa-mae-gigabyte-z690-aorus-elite-rev-1-0-intel-lga-1700-atx-ddr4-m-2-nvme-z690-aorus-elite-ddr4_1635946191_gg.jpg",
+                    "Descricao": "",
                 },
                 {
                     "id" : ["mb", 1],
@@ -39,6 +40,7 @@
                     "Preco": 499.99,
                     "Promocao": 519.99,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1646852577_gg.jpg",
+                    "Descricao": "",
                 }
                 
             ]
@@ -61,6 +63,7 @@
                     "Preco": 2199.99,
                     "Promocao": 2444.43,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/241048/processador-intel-core-i7-12700k-cache-25mb-3-6ghz-5-0ghz-max-turbo-lga-1700-bx8071512700k_1634830258_gg.jpg", 
+                    "Descricao": "",
                 },
                 {
                     "id" : ["pro", 1],
@@ -80,6 +83,7 @@
                     "Preco": 599.99,
                     "Promocao": 706.96,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/333145/processador-amd-ryzen-5-4600g-cache-11mb-3-7ghz-4-2ghz-max-turbo-am4-video-integrado-100-100000147box_1653338732_gg.jpg", 
+                    "Descricao": "",
                 },
                 {
                     "id" : ["pro", 2],
@@ -99,6 +103,7 @@
                     "Preco": 499.99,
                     "Promocao": 0,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/102248/processador-amd-ryzen-3-3200g-cache-4mb-3-6ghz-4ghz-max-turbo-am4-yd3200c5fhbox_1607691191_gg.jpg", 
+                    "Descricao": "",
                 }
 
             ]
@@ -118,6 +123,7 @@
                     "Preco": 165.99,
                     "Promocao": 211.75,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_gg.jpg", 
+                    "Descricao": "",
                 },
                 {
                     "id" : ["ram", 1],
@@ -133,6 +139,7 @@
                     "Preco": 159.99,
                     "Promocao": 189.99,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/429166/memoria-corsair-vengeance-lpx-8gb-1x8gb-3200mhz-ddr4-c16-preto-cmk8gx4m1z3200c16_1678907003_gg.jpg", 
+                    "Descricao": "",
                 },
                 {
                     "id" : ["ram", 2],
@@ -148,6 +155,7 @@
                     "Preco": 717.64,
                     "Promocao": 0,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/304035/memoria-xpg-lancer-rgb-16gb-6000mhz-ddr5-cl40-preto-ax5u6000c4016g-clarbk_1642605898_gg.jpg", 
+                    "Descricao": "",
                 },
 
     ]
@@ -171,6 +179,7 @@
                     "Preco": 10499.99,
                     "Promocao": 12511.10,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/388013/placa-de-video-msi-nvidia-geforce-rtx-4090-gaming-trio-24-gb-gddr6x-dlss-ray-tracing-geforce-rtx-4090-24g-geforce-rtx-4090-gaming-trio-24g_1665586454_gg.jpg", 
+                    "Descricao": "",
                 },
                 {
                     "id" : ["vid", 1],
@@ -190,6 +199,7 @@
                     "Preco": 1799.00,
                     "Promocao": 0,
                     "imagem": "https://images.kabum.com.br/produtos/fotos/391124/placa-de-video-msi-nvidia-geforce-rtx-2060-ventus-12-gb-gddr6-ray-tracing-rtx-2060-ventus-12g-oc_1667570594_gg.jpg", 
+                    "Descricao": "",
                 }
             ]
 
@@ -205,6 +215,7 @@
             "Preco": 999.99,
             "Promocao": 0,
             "imagem": "https://images.kabum.com.br/produtos/fotos/397723/fonte-msi-mpg-a850g-pcie5-850w-80-plus-gold-modular-pfc-ativo-bivolt-sem-cabo-preto-306-7zp7b12-ce0_1667314048_gg.jpg", 
+            "Descricao": "",
         },
         {
             "id" : ["fnt", 1],
@@ -217,6 +228,7 @@
             "Preco": 549.99,
             "Promocao": 0,
             "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/456713/Fonte-Corsair-Cv550-550w-Pfc-Ativo-80-Plus-Bronze-Sem-Cabo-De-For-a-Cp-9020210-ww_1681480092_gg.jpg", 
+            "Descricao": "",
         }
     ]
     let Cooler = [
@@ -232,6 +244,7 @@
             "Preco": 804.99,
             "Promocao": 0,
             "imagem": "https://images.kabum.com.br/produtos/fotos/162466/water-cooler-corsair-h150-rgb-intel-amd-360mm-3x-120mm-preto-cw-9060054-ww_1636559275_gg.jpg", 
+            "Descricao": "",
         },
         {
             "id" : ["cool", 1],
@@ -245,6 +258,7 @@
             "Preco": 143.86,
             "Promocao": 0,
             "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/170430/Cooler-Para-Processador-Cooler-Master-Hyper-H410R-LED-Vermelho-4-Heat-Pipes-RR-H410-20PK-R1_1679672931_gg.jpg", 
+            "Descricao": "",
         }
     ]
 
@@ -264,6 +278,7 @@
             "Preco": 174.99,
             "Promocao": 270.58,
             "imagem": "https://images.kabum.com.br/produtos/fotos/415885/ssd-adata-legend-710-512gb-m-2-2280-pcie-gen3x4-nvme-1-4-leitura-2-400-mb-s-e-gravacao-1-800-mb-s-azul-aleg-710-512gcs_1675085973_gg.jpg", 
+            "Descricao": "",
         },
         {
             "id" : ["nvme", 1],
@@ -279,6 +294,7 @@
             "Preco": 699.99,
             "Promocao": 910.05,
             "imagem": "https://images.kabum.com.br/produtos/fotos/272356/ssd-kingston-fury-renegade-1000gb-m-2-2280-pcie-nvme-leituras-7-300mb-s-gravacao-6-000mb-s-sfyrs-1000g_1637328670_gg.jpg", 
+            "Descricao": "",
         }
     ]
 
@@ -297,6 +313,7 @@
             "Preco": 252.99,
             "Promocao": 0,
             "imagem": "https://images.kabum.com.br/produtos/fotos/351528/ssd-wd-blue-250gb-m-2-leitura-555mb-s-gravacao-440mb-s-wds250g3b0b-8203-_1657309381_gg.jpg", 
+            "Descricao": "",
         }
         
     ]
@@ -313,6 +330,7 @@
             "Preco": 129.99,
             "Promocao": 204.55,
             "imagem": "https://images.kabum.com.br/produtos/fotos/85197/85197_1484306076_gg.jpg", 
+            "Descricao": "",
         }
     ]
 
@@ -330,6 +348,7 @@
             "Preco": 449.99,
             "Promocao": 705.85,
             "imagem": "https://images.kabum.com.br/produtos/fotos/95803/95803_1522867513_index_gg.jpg", 
+            "Descricao": "",
         },
     ]
     
