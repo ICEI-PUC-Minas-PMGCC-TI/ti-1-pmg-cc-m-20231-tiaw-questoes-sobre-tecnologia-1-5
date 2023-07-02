@@ -127,8 +127,6 @@ $('#Tipo_peca').change(function () {
                 <input id="Preço" class="form-control" type="number" placeholder="Digite o número" aria-label="default input example">
                 <label for="Imagem">Digite o link da imagem do componente:</label>
                 <input id="Imagem" class="form-control" type="text" placeholder="Digite o link da imagem" aria-label="default input example">
-                <label for="Link">Digite o link do componente:</label>
-                <input id="Link" class="form-control" type="text" placeholder="Digite o link" aria-label="default input example">
             `;
     }
     else if (escolha == 'processador') {
@@ -174,8 +172,7 @@ function cadastrar() {
     $('#Conectores_NVME').val() !== null &&
     $('#PCIE_máx_conectores_NVME').val() !== null &&
     $('#Preço').val() !== null &&
-    $('#Imagem').val() !== null &&
-    $('#Link').val() !== null
+    $('#Imagem').val() !== null 
   ) {
     
     let id = JSON.parse(localStorage.Placa_mae).length
@@ -202,7 +199,6 @@ function cadastrar() {
           "Preco": $('#Preço').val(),
           "Promocao": 0,
           "imagem": $('#Imagem').val(),
-          "link": $('#Link').val()
         }
       ];
     
