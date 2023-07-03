@@ -18,4 +18,6 @@ O objetivo geral deste trabalho é ajudar aqueles que gostariam de adquirir um c
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para utilizar esse webapp você deve baixar o código e executar o "index.html" ou acessar através do seguinte link: 
+
+https://ti-frontend-pc-master-v1--samuelhortfaria.repl.co/

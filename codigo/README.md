@@ -1,5 +1,5 @@
 # Código do Projeto
 
-Mantenha neste diretório todo o código fonte do projeto. 
+Nesse diretório está presente todo o código fonte do projeto.
 
-Se necessário, descreva neste arquivo aspectos relevantes da estrutura de diretórios criada para organização do código.
+A entrega de cada membro do grupo está separado pelo numero da sprint e do integrante através do nome dos arquivos (De menos o index, feito por Samuel Horta de Faria)
